@@ -32,15 +32,14 @@ A fast, minimalistic workout companion designed using **Kotlin**, **Jetpack Comp
 | IDE              | Android Studio                              |
 
 
+
+🛣 Roadmap
+ Add user goals and reminders
+ Integrate Firebase for cross-device sync
+ 
 ## 🏁 Getting Started
 
 Clone the repo:
 ```bash
 git clone https://github.com/aadyrajput/RushWorkout.git
 Open the project in Android Studio, build & run on emulator/device.
-
-🛣 Roadmap
- Add user goals and reminders
- Integrate Firebase for cross-device sync
-🤝 Contributing
-Pull requests are welcome. For major changes, open an issue first to discuss improvements.
