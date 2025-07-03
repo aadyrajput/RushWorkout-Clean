@@ -42,4 +42,3 @@ A fast, minimalistic workout companion designed using **Kotlin**, **Jetpack Comp
 Clone the repo:
 ```bash
 git clone https://github.com/aadyrajput/RushWorkout.git
-Open the project in Android Studio, build & run on emulator/device.
